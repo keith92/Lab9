@@ -1,0 +1,8 @@
+
+> lab9@0.0.0 start /opt/bitnami/apache2/htdocs/CS360/Lab9/lab9
+> node ./bin/www
+
+[0mGET / [32m200 [0m393.662 ms - 1260[0m
+[0mGET /stylesheets/mystyle.css [32m200 [0m197.016 ms - 135[0m
+[0mGET /javascripts/app.js [32m200 [0m0.751 ms - 1136[0m
+[0mGET /comments [32m200 [0m849.863 ms - 365[0m
